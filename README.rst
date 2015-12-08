@@ -11,7 +11,7 @@ Installation
 
 The component has the following dependencies:
 
-- librarian_core_
+- librarian-core_
 
 To enable this component, add it to the list of components in librarian_'s
 `config.ini` file, e.g.::
@@ -31,4 +31,4 @@ Configuration
         root = flatpages
 
 .. _librarian: https://github.com/Outernet-Project/librarian
-.. _librarian_core: https://github.com/Outernet-Project/librarian-core
+.. _librarian-core: https://github.com/Outernet-Project/librarian-core
